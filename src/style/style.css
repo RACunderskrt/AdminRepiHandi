@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+}
+
+.page{
+    width: 90%;
+    margin-left:5%;
+}
+
+.modal{
+    display:none
+}
+
+.active{
+    display: inline;
+}
